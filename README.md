@@ -8,6 +8,13 @@ In a previous era, this is the point in our full-stack journey where we would be
 In this unit, you will learn how to initialize a Node.js project, install third-party dependencies, and create interactive command line applications. Node.js ships with what is referred to as a standard library. The standard library contains a number of modules that allow us to extend the functionality of Node.js, such as `fs`, which we will use to read and write files. There is also a large and robust ecosystem of third-party modules available to us.
 
  ## Tools
+* Node.js
+* process.argv
+* Client-server model
+* Request-response pattern
+* Axios
+* fs
+* Inquirer
 
 
 
